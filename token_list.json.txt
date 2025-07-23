@@ -1,0 +1,18 @@
+{
+  "name": "Test Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 11155111, // Sepolia
+      "address": "0x0b7829A327EA4bcA03891395b1123C54d02aD209",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://github.com/RAMZESSS161/Token_logo/blob/main/ethereum_logo_icon.png"
+    }
+  ]
+}
